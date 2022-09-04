@@ -1,0 +1,1 @@
+Hello! My name is Alden Strafford. I am a 4th year comp sci student at Ualbany, and looking forward to learning more about development through this class.
